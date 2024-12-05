@@ -24,7 +24,7 @@ NLP Coding Test [구현된 기능]
 NLP Coding Test [실행 및 테스트 방법]
 1. 의존성 설치: 프로젝트 실행에 필요한 라이브러리를 설치
    - pip install fastapi uvicorn transformers torch
-2. FastAPI 서버 실행: FastAPI를 실행하여 서버를 시작
+2. FastAPI 서버 실행: cmd를 실행하여 서버를 시작
    - uvicorn main:app --reload
 3. API 테스트
 - 브라우저에서 Swagger UI를 열어 테스트:
